@@ -5,15 +5,15 @@
 
 
   ## **Como instalar:** 
-   ```sh
- $ npm instal card-validator-leticia
-   ```
+```sh
+$ npm instal card-validator-leticia
+```
 
   ## **Como utilizar:** 
 ```sh
-    > const cardValidator = require("card-validator-leticia"); 
-    > console.log(cardValidator(5436535407089810))
-    > // returns "true"
+> const cardValidator = require("card-validator-leticia"); 
+> console.log(cardValidator(5436535407089810))
+> // returns "true"
 ```
 
   ## **Roadmap oficial do projeto:**
