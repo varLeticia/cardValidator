@@ -1,0 +1,17 @@
+{
+  "name": "cartao",
+  "version": "1.0.0",
+  "description": "Neste projeto, foi desenvolvida uma biblioteca que verifica CARTÃO DE CRÉDITO retornando true ou false.",
+  "main": "cartao.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
