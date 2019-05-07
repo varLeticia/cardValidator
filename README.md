@@ -11,9 +11,9 @@ $ npm instal card-validator-leticia
 
   ## **Como utilizar:** 
 ```sh
-> const cardValidator = require("card-validator-leticia"); 
-> console.log(cardValidator(5436535407089810))
-> // returns "true"
+> const test = require("card-validator-leticia"); 
+> test.cardValidator('5436535407089810')
+> // return "true"
 ```
 
   ## **Roadmap oficial do projeto:**
