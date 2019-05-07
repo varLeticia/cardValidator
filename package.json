@@ -1,5 +1,5 @@
 {
-  "name": "cartao",
+  "name": "card-validator-leticia",
   "version": "1.0.0",
   "description": "Neste projeto, foi desenvolvida uma biblioteca que verifica CARTÃO DE CRÉDITO retornando true ou false.",
   "main": "cartao.js",

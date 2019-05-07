@@ -1,4 +1,4 @@
-#VERIFICAÇÃO DE CARTÃO DE CRÉDITO
+  ## VERIFICAÇÃO DE CARTÃO DE CRÉDITO
 
     Neste projeto, foi desenvolvida uma biblioteca que verifica CARTÃO DE CRÉDITO retornando true ou false. 
 
@@ -7,10 +7,15 @@
 
   ## **Como instalar:** 
    
-   `$ npm install `
+   `$ npm instal card-validator-leticia`
 
-  ## **Como instalar:** 
+  ## **Como utilizar:** 
+    ```sh 
+    > const cardValidator = require("card-validator-leticia"); 
+    > console.log(cardValidator(5436535407089810))
+    > // returns "true"
+    ```
 
-    > const writtenNumber = require("chayote-lib");
-    > console.log(writtenNumber(10))
-    > // returns "dez" # cardValidator
+  ## *Roadmap oficial do projeto*
+
+    funcionalidades: valida cartões de crédito. 
